@@ -30,6 +30,9 @@ SW중심대학 공동 AI 경진대회 ❮예선❯ (4등/192 -> WINNER 🏆) [�
 
 ↳ https://dacon.io/competitions/official/236437/overview/description
 
+HAI(하이)! - Hecto AI Challenge : 2025 하반기 헥토 채용 AI 경진대회 (22/458 -> 헥토그룹 채용 인재풀 등록 ✅) [상위 4.8%]
+↳ https://dacon.io/competitions/official/236628/overview/description
+
 제3회 국민대학교 AI빅데이터 분석 경진대회 (41등/961) [상위 5%]
 
 ↳ https://dacon.io/competitions/official/236619/overview/description
